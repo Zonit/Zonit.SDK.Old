@@ -1,0 +1,21 @@
+{
+  "PackagesFound": 7,
+  "ProjectsFound": 1,
+  "Timestamp": "2025-11-16 16:18:58",
+  "TargetFrameworks": [
+    "net8.0",
+    "net9.0",
+    "net10.0"
+  ],
+  "ChangeSummaryText": "No package version changes - this might be a new setup or no updates available",
+  "PackageChanges": [],
+  "Summary": {
+    "ProjectsUpdated": 1,
+    "PackagesConfigured": 7,
+    "FrameworkSpecificPackages": 0,
+    "PackagesChanged": 0,
+    "CommonPackages": 7,
+    "DirectoryPackagesPropsUpdated": true,
+    "FrameworksSet": "net8.0;net9.0;net10.0"
+  }
+}
