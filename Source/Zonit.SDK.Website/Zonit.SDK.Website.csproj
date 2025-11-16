@@ -1,17 +1,15 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
-
-	<PropertyGroup>
-		<Title>Zonit.SDK.Website</Title>
-	</PropertyGroup>
-	
-	<ItemGroup>
-		<PackageReference Include="Microsoft.AspNetCore.Components" />
-		<PackageReference Include="MudBlazor" />
-		<PackageReference Include="Zonit.Extensions.Cultures.Abstractions" />
-		<PackageReference Include="Zonit.Extensions.Identity.Abstractions" />
-		<PackageReference Include="Zonit.Extensions.Organizations.Abstractions" />
-		<PackageReference Include="Zonit.Extensions.Projects.Abstractions" />
-		<PackageReference Include="Zonit.Extensions.Website" />
-	</ItemGroup>
-
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <Title>Zonit.SDK.Website</Title>
+    <TargetFrameworks>net8.0;net9.0;net10.0</TargetFrameworks>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Components" />
+    <PackageReference Include="MudBlazor" />
+    <PackageReference Include="Zonit.Extensions.Cultures.Abstractions" />
+    <PackageReference Include="Zonit.Extensions.Identity.Abstractions" />
+    <PackageReference Include="Zonit.Extensions.Organizations.Abstractions" />
+    <PackageReference Include="Zonit.Extensions.Projects.Abstractions" />
+    <PackageReference Include="Zonit.Extensions.Website" />
+  </ItemGroup>
 </Project>
