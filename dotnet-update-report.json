@@ -1,0 +1,111 @@
+{
+  "TargetFrameworks": [
+    "net8.0",
+    "net9.0",
+    "net10.0"
+  ],
+  "Timestamp": "2025-11-17 02:41:23",
+  "ChangeSummaryText": "Microsoft.AspNetCore.Components [net10.0]: (new) -> 10.0.0\nMicrosoft.AspNetCore.Components [net8.0]: 8.0.12 -> 8.0.22\nMicrosoft.AspNetCore.Components [net9.0]: 9.0.1 -> 9.0.11\nMudBlazor : 8.2.0 -> 8.14.0\nZonit.Extensions.Cultures.Abstractions : 0.1.2 -> 0.1.7\nZonit.Extensions.Organizations.Abstractions : 0.1.7 -> 0.1.8\nZonit.Extensions.Website : 0.0.41 -> 0.1.27",
+  "ProjectsFound": 1,
+  "PackagesFound": 7,
+  "Summary": {
+    "PackagesConfigured": 7,
+    "PackagesChanged": 15,
+    "FrameworksSet": "net8.0;net9.0;net10.0",
+    "ProjectsUpdated": 1,
+    "DirectoryPackagesPropsUpdated": true,
+    "FrameworkSpecificGroups": 3
+  },
+  "PackageChanges": [
+    {
+      "Package": "Microsoft.AspNetCore.Components",
+      "Framework": "net8.0",
+      "OldVersion": "8.0.12",
+      "NewVersion": "8.0.22"
+    },
+    {
+      "Package": "MudBlazor",
+      "Framework": "net8.0",
+      "OldVersion": "8.2.0",
+      "NewVersion": "8.14.0"
+    },
+    {
+      "Package": "Zonit.Extensions.Cultures.Abstractions",
+      "Framework": "net8.0",
+      "OldVersion": "0.1.2",
+      "NewVersion": "0.1.7"
+    },
+    {
+      "Package": "Zonit.Extensions.Organizations.Abstractions",
+      "Framework": "net8.0",
+      "OldVersion": "0.1.7",
+      "NewVersion": "0.1.8"
+    },
+    {
+      "Package": "Zonit.Extensions.Website",
+      "Framework": "net8.0",
+      "OldVersion": "0.0.41",
+      "NewVersion": "0.1.27"
+    },
+    {
+      "Package": "Microsoft.AspNetCore.Components",
+      "Framework": "net9.0",
+      "OldVersion": "9.0.1",
+      "NewVersion": "9.0.11"
+    },
+    {
+      "Package": "MudBlazor",
+      "Framework": "net9.0",
+      "OldVersion": "8.2.0",
+      "NewVersion": "8.14.0"
+    },
+    {
+      "Package": "Zonit.Extensions.Cultures.Abstractions",
+      "Framework": "net9.0",
+      "OldVersion": "0.1.2",
+      "NewVersion": "0.1.7"
+    },
+    {
+      "Package": "Zonit.Extensions.Organizations.Abstractions",
+      "Framework": "net9.0",
+      "OldVersion": "0.1.7",
+      "NewVersion": "0.1.8"
+    },
+    {
+      "Package": "Zonit.Extensions.Website",
+      "Framework": "net9.0",
+      "OldVersion": "0.0.41",
+      "NewVersion": "0.1.27"
+    },
+    {
+      "Package": "Microsoft.AspNetCore.Components",
+      "Framework": "net10.0",
+      "OldVersion": "(new)",
+      "NewVersion": "10.0.0"
+    },
+    {
+      "Package": "MudBlazor",
+      "Framework": "net10.0",
+      "OldVersion": "8.2.0",
+      "NewVersion": "8.14.0"
+    },
+    {
+      "Package": "Zonit.Extensions.Cultures.Abstractions",
+      "Framework": "net10.0",
+      "OldVersion": "0.1.2",
+      "NewVersion": "0.1.7"
+    },
+    {
+      "Package": "Zonit.Extensions.Organizations.Abstractions",
+      "Framework": "net10.0",
+      "OldVersion": "0.1.7",
+      "NewVersion": "0.1.8"
+    },
+    {
+      "Package": "Zonit.Extensions.Website",
+      "Framework": "net10.0",
+      "OldVersion": "0.0.41",
+      "NewVersion": "0.1.27"
+    }
+  ]
+}
