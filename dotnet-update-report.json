@@ -1,0 +1,76 @@
+{
+  "Timestamp": "2025-11-17 05:24:05",
+  "Summary": {
+    "PackagesConfigured": 7,
+    "CommonPackages": 6,
+    "PackagesChanged": 9,
+    "FrameworkSpecificPackages": 1,
+    "FrameworksSet": "net8.0;net9.0;net10.0",
+    "DirectoryPackagesPropsUpdated": true,
+    "ProjectsUpdated": 1
+  },
+  "ChangeSummaryText": "Microsoft.AspNetCore.Components [net10.0]: (new) -> 10.0.0\nMicrosoft.AspNetCore.Components [net8.0]: 8.0.12 -> 8.0.22\nMicrosoft.AspNetCore.Components [net9.0]: 9.0.1 -> 9.0.11\nMudBlazor : 8.2.0 -> 8\nZonit.Extensions.Cultures.Abstractions : 0.1.2 -> 0\nZonit.Extensions.Identity.Abstractions : 0.1.6 -> 0\nZonit.Extensions.Organizations.Abstractions : 0.1.7 -> 0\nZonit.Extensions.Projects.Abstractions : 0.1.4 -> 0\nZonit.Extensions.Website : 0.0.41 -> 0",
+  "ProjectsFound": 1,
+  "PackagesFound": 7,
+  "PackageChanges": [
+    {
+      "Package": "Microsoft.AspNetCore.Components",
+      "Framework": "net8.0",
+      "OldVersion": "8.0.12",
+      "NewVersion": "8.0.22"
+    },
+    {
+      "Package": "Microsoft.AspNetCore.Components",
+      "Framework": "net9.0",
+      "OldVersion": "9.0.1",
+      "NewVersion": "9.0.11"
+    },
+    {
+      "Package": "Microsoft.AspNetCore.Components",
+      "Framework": "net10.0",
+      "OldVersion": "(new)",
+      "NewVersion": "10.0.0"
+    },
+    {
+      "Package": "MudBlazor",
+      "Framework": "common",
+      "OldVersion": "8.2.0",
+      "NewVersion": "8"
+    },
+    {
+      "Package": "Zonit.Extensions.Cultures.Abstractions",
+      "Framework": "common",
+      "OldVersion": "0.1.2",
+      "NewVersion": "0"
+    },
+    {
+      "Package": "Zonit.Extensions.Identity.Abstractions",
+      "Framework": "common",
+      "OldVersion": "0.1.6",
+      "NewVersion": "0"
+    },
+    {
+      "Package": "Zonit.Extensions.Organizations.Abstractions",
+      "Framework": "common",
+      "OldVersion": "0.1.7",
+      "NewVersion": "0"
+    },
+    {
+      "Package": "Zonit.Extensions.Projects.Abstractions",
+      "Framework": "common",
+      "OldVersion": "0.1.4",
+      "NewVersion": "0"
+    },
+    {
+      "Package": "Zonit.Extensions.Website",
+      "Framework": "common",
+      "OldVersion": "0.0.41",
+      "NewVersion": "0"
+    }
+  ],
+  "TargetFrameworks": [
+    "net8.0",
+    "net9.0",
+    "net10.0"
+  ]
+}
