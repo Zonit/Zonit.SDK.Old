@@ -1,0 +1,76 @@
+{
+  "Timestamp": "2025-11-17 04:04:22",
+  "PackageChanges": [
+    {
+      "Package": "Microsoft.AspNetCore.Components",
+      "Framework": "net8.0",
+      "OldVersion": "(new)",
+      "NewVersion": "8.0.22"
+    },
+    {
+      "Package": "Microsoft.AspNetCore.Components",
+      "Framework": "net9.0",
+      "OldVersion": "(new)",
+      "NewVersion": "9.0.11"
+    },
+    {
+      "Package": "Microsoft.AspNetCore.Components",
+      "Framework": "net10.0",
+      "OldVersion": "(new)",
+      "NewVersion": "10.0.0"
+    },
+    {
+      "Package": "MudBlazor",
+      "Framework": "common",
+      "OldVersion": "(new)",
+      "NewVersion": "8"
+    },
+    {
+      "Package": "Zonit.Extensions.Cultures.Abstractions",
+      "Framework": "common",
+      "OldVersion": "(new)",
+      "NewVersion": "0"
+    },
+    {
+      "Package": "Zonit.Extensions.Identity.Abstractions",
+      "Framework": "common",
+      "OldVersion": "(new)",
+      "NewVersion": "0"
+    },
+    {
+      "Package": "Zonit.Extensions.Organizations.Abstractions",
+      "Framework": "common",
+      "OldVersion": "(new)",
+      "NewVersion": "0"
+    },
+    {
+      "Package": "Zonit.Extensions.Projects.Abstractions",
+      "Framework": "common",
+      "OldVersion": "(new)",
+      "NewVersion": "0"
+    },
+    {
+      "Package": "Zonit.Extensions.Website",
+      "Framework": "common",
+      "OldVersion": "(new)",
+      "NewVersion": "0"
+    }
+  ],
+  "ChangeSummaryText": "Microsoft.AspNetCore.Components [net10.0]: (new) -> 10.0.0\nMicrosoft.AspNetCore.Components [net8.0]: (new) -> 8.0.22\nMicrosoft.AspNetCore.Components [net9.0]: (new) -> 9.0.11\nMudBlazor : (new) -> 8\nZonit.Extensions.Cultures.Abstractions : (new) -> 0\nZonit.Extensions.Identity.Abstractions : (new) -> 0\nZonit.Extensions.Organizations.Abstractions : (new) -> 0\nZonit.Extensions.Projects.Abstractions : (new) -> 0\nZonit.Extensions.Website : (new) -> 0",
+  "PackagesFound": 7,
+  "ProjectsFound": 1,
+  "Summary": {
+    "DirectoryPackagesPropsUpdated": true,
+    "CommonPackages": 6,
+    "FrameworksSet": "net8.0;net9.0;net10.0",
+    "PackagesChanged": 9,
+    "FrameworkSpecificPackages": 1,
+    "ProjectsUpdated": 1,
+    "PackagesConfigured": 7
+  },
+  "TargetFrameworks": [
+    "net8.0",
+    "net9.0",
+    "net10.0"
+  ]
+}
